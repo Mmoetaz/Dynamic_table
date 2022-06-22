@@ -1,0 +1,4 @@
+Sometimes it is necessary to change the memory size. 
+So memory can be dynamically allocated. Depending on addition and deletion, the memory can be increased or decreased. 
+
+==>This is called dynamic memory allocation.
