@@ -27,4 +27,5 @@ main(){
 	fill(t,n);
 	printf("\n \n");
 	display(t,n);
+	free(t);
 }
