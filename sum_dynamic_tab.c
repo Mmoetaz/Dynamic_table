@@ -21,6 +21,8 @@ void display(int *t,int n){
 	}
 }
 
+
+//using recursion
 int sum(int *t,int n){
 	if(n<0)
 		return 0;
